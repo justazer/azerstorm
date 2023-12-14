@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azerstorm
+- 👋 Hi, I’m @justazer
 - 👀 I’m interested in learning something new
 - 🌱 I’m currently learning .net core, python, and go language
 
